@@ -6,8 +6,8 @@ Implement search repository and infinite scroll
 
 To begin, you'll need to install Modules
 
-`npm install`
+```npm install```
 
 Then 
 
-`npm start`
+````npm start```
