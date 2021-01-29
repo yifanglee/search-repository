@@ -12,5 +12,5 @@ Then
 
 ```npm start```
 
-![Image of data flow]
+![Image of Yaktocat]
 (https://drive.google.com/file/d/1nI7W55RE63Zq80NZchL3iBgUAV-BGbJx/view?usp=sharing)
